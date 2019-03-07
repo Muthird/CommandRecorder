@@ -2,28 +2,28 @@
 product guide
 
 ■CommandRecorder</br>
-https://eachpath.booth.pm/items/1123127
-The action registration function is familiar with The DCC tool!
-This is a versatile add-on that the moderator thinks and programmer implements!
-CommandRecorder has fuction of records and plays.
-Watch the video for installation and usage!
-https://youtu.be/7UtFRyxm-EU
-
-■Post
-https://satahiko.booth.pm/items/1229821
-■Vessel
-https://satahiko.booth.pm/items/1123123
-
-
-
-About CommandRecorder
-▪ This is a feature that has not been introduced in the video.
-
-You can switch the display of command history.
-●Standard: Normal command display
-●Extend:Displays the command in detail
-
-
+https://eachpath.booth.pm/items/1123127</br>
+The action registration function is familiar with The DCC tool!</br>
+This is a versatile add-on that the moderator thinks and programmer implements!</br>
+CommandRecorder has fuction of records and plays.</br>
+Watch the video for installation and usage!</br>
+https://youtu.be/7UtFRyxm-EU</br>
+</br>
+■Post</br>
+https://satahiko.booth.pm/items/1229821</br>
+■Vessel</br>
+https://satahiko.booth.pm/items/1123123</br>
+</br>
+</br>
+</br>
+About CommandRecorder</br>
+▪ This is a feature that has not been introduced in the video.</br>
+</br>
+You can switch the display of command history.</br>
+●Standard: Normal command display</br>
+●Extend:Displays the command in detail</br>
+</br>
+</br>
 ■Notes
 
 ●Commands stored in the command list are passed on only for the project.

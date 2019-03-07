@@ -76,7 +76,6 @@ Article 6 Applicable Acts, Courts of Jurisdiction, Languages, and Other</br>
 (2) This agreement is based on Japanese and is always interpreted only in Japanese.</br>
 (3) All rights other than those stated in this Service Description are reserved in BuuGraphic.</br>
 </br>
-If you have any questions or comments, please contact BuuGraphics.</br>
+
 Twitter：https://twitter.com/BuuGraphic</br>
-Gmail：buugraphic@gmail.com</br>
 

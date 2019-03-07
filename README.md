@@ -1,7 +1,7 @@
 # CommandRecorder
 product guide
 
-■CommandRecorder
+■CommandRecorder</br>
 https://eachpath.booth.pm/items/1123127
 The action registration function is familiar with The DCC tool!
 This is a versatile add-on that the moderator thinks and programmer implements!
